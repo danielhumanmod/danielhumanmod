@@ -21,7 +21,7 @@
 - 💼 &nbsp;
   ![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=springboot)
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
-  ![Express.js](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+  ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Kafka](https://img.shields.io/badge/-Apache_Kafka-333333?style=flat&logo=ApacheKafka)
   ![Spark](https://img.shields.io/badge/-Apach_Spark-333333?style=flat&logo=ApacheSpark)
