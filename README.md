@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Daijian Tu.</h2>
+<h2> Hey there! This is Daniel.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
