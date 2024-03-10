@@ -38,9 +38,8 @@
   ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)
   ![GCP](https://img.shields.io/badge/-Google_Cloud-333333?style=flat&logo=googlecloud)
-  ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
+  ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoftazure)
   ![VSCode](https://img.shields.io/badge/-VS_Code-333333?style=flat&logo=visualstudiocode)
-  ![XCode](https://img.shields.io/badge/-XCode-333333?style=flat&logo=xcode)
 
 <!-- <br/> -->
 
