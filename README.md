@@ -41,9 +41,6 @@
   ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoftazure)
   ![VSCode](https://img.shields.io/badge/-VS_Code-333333?style=flat&logo=visualstudiocode)
 
-
-[![Top Langs](https://github-readme-stats-rose-ten-78.vercel.app/api/top-langs/?username=danielhumanmod&layout=compact&show_icon=true&langs_count=6&hide=javascript,html,CSS)](https://github-readme-stats-rose-ten-78.vercel.app/api/top-langs/?username=danielhumanmod&count_private=true)
-
 <!-- <br/> -->
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
@@ -53,3 +50,5 @@
 <a href="https://www.linkedin.com/in/daijian-tu-433850185/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Daijian%20Tu-blue?style=flat-square&logo=linkedin"></a>
 <a href="danieltu.life@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-danieltu.life@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
+
+[![Top Langs](https://github-readme-stats-rose-ten-78.vercel.app/api/top-langs/?username=danielhumanmod&layout=compact&show_icon=true&langs_count=6&hide=javascript,html,CSS)](https://github-readme-stats-rose-ten-78.vercel.app/api/top-langs/?username=danielhumanmod&count_private=true)
