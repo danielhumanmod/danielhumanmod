@@ -13,7 +13,7 @@
 - 💻 &nbsp;
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=Go)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift)
   ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
