@@ -41,12 +41,8 @@
   ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoftazure)
   ![VSCode](https://img.shields.io/badge/-VS_Code-333333?style=flat&logo=visualstudiocode)
 
-<!-- <br/> -->
 
-<!-- <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielhumanmod&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielhumanmod&theme=buefy&layout=compact" />
-</a> -->
+[![Top Langs](https://github-readme-stats-rose-ten-78.vercel.app/api/top-langs/?username=danielhumanmod&layout=compact&show_icon=true&langs_count=6&hide=javascript,html,CSS)](https://github-readme-stats-rose-ten-78.vercel.app/api/top-langs/?username=danielhumanmod&count_private=true)
 
 <!-- <br/> -->
 
