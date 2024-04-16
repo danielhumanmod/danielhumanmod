@@ -28,7 +28,6 @@
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
   ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
   ![Cassandra](https://img.shields.io/badge/-Cassandra-333333?style=flat&logo=ApacheCassandra)
-  ![Neo4j](https://img.shields.io/badge/-Neo4j-333333?style=flat&logo=Neo4j)
   ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
 - 🔧 &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -38,10 +37,9 @@
   ![Helm](https://img.shields.io/badge/-Helm-333333?style=flat&logo=Helm)
   ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)
-  ![GCP](https://img.shields.io/badge/-Google_Cloud-333333?style=flat&logo=googlecloud)
   ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoftazure)
-  ![VSCode](https://img.shields.io/badge/-VS_Code-333333?style=flat&logo=visualstudiocode)
-
+  ![GCP](https://img.shields.io/badge/-GCP-333333?style=flat&logo=googlecloud)
+  ![Snowflake](https://img.shields.io/badge/-Snowflake-333333?style=flat&logo=snowflake)
 <!-- <br/> -->
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
