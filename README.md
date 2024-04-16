@@ -17,7 +17,8 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift)
   ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+  ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
+  ![Scala](https://img.shields.io/badge/-Scala-333333?style=flat&logo=scala)
 - 💼 &nbsp;
   ![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=springboot)
   ![Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=ApacheKafka)
