@@ -4,7 +4,8 @@
 
 <!-- - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks. -->
 - 🎓 &nbsp; M.S. student @ Carnegie Mellon University
-- 💼 &nbsp; Actively seeking for 2024 summer SDE intern postions
+- 🔍 &nbsp; Actively seeking for 2025 NG postions
+- 💼 &nbsp; Prev @ Snowflake, TikTok, Tencent
 <!-- - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence. -->
 <!-- - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles. -->
 
