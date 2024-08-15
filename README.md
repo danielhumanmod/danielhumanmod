@@ -51,4 +51,4 @@
 <a href="danieltu.life@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-danieltu.life@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-[![Top Langs](https://github-readme-stats-rose-ten-78.vercel.app/api/top-langs/?username=danielhumanmod&layout=compact&show_icon=true&langs_count=6&hide=javascript,html,CSS)](https://github-readme-stats-rose-ten-78.vercel.app/api/top-langs/?username=danielhumanmod&count_private=true)
+<!-- [![Top Langs](https://github-readme-stats-rose-ten-78.vercel.app/api/top-langs/?username=danielhumanmod&layout=compact&show_icon=true&langs_count=6&hide=javascript,html,CSS)](https://github-readme-stats-rose-ten-78.vercel.app/api/top-langs/?username=danielhumanmod&count_private=true) -->
