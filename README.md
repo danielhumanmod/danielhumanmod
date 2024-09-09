@@ -4,8 +4,8 @@
 
 <!-- - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks. -->
 - 🎓 &nbsp; M.S. student @ Carnegie Mellon University
-- 🔍 &nbsp; Actively seeking for 2025 NG postions
 - 💼 &nbsp; Prev @ Snowflake, TikTok, Tencent
+- 🔍 &nbsp; Interested in Database System, Data Lake, and SQL Engine
 <!-- - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence. -->
 <!-- - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles. -->
 
@@ -51,4 +51,4 @@
 <a href="danieltu.life@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-danieltu.life@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-<!-- [![Top Langs](https://github-readme-stats-rose-ten-78.vercel.app/api/top-langs/?username=danielhumanmod&layout=compact&show_icon=true&langs_count=6&hide=javascript,html,CSS)](https://github-readme-stats-rose-ten-78.vercel.app/api/top-langs/?username=danielhumanmod&count_private=true) -->
+[![Top Langs](https://github-readme-stats-rose-ten-78.vercel.app/api/top-langs/?username=danielhumanmod&layout=compact&show_icon=true&langs_count=6&hide=javascript,html,CSS)](https://github-readme-stats-rose-ten-78.vercel.app/api/top-langs/?username=danielhumanmod&count_private=true)
