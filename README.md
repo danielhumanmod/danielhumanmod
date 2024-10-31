@@ -5,7 +5,6 @@
 <!-- - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks. -->
 - 🎓 &nbsp; M.S. student @ Carnegie Mellon University
 - 💼 &nbsp; Prev @ Snowflake, TikTok, Tencent
-- 🔍 &nbsp; Interested in Database System, Data Lake, and SQL Engine
 <!-- - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence. -->
 <!-- - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles. -->
 
